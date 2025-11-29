@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Ayanda S. Dlamini",
+    "role": "Project Leader",
+    "tagline": "Designing agentic workflows for hybrid network topologies.",
+    "avatar": "https://avatars.githubusercontent.com/u/140255451?v=4",
+    "linkedin": "https://www.linkedin.com/in/mr-ayanda-s-dlamini-fmt/"
+  },
+  {
+    "name": "Bruno Example",
+    "role": "GNS3 & Infrastructure Engineer",
+    "tagline": "Building realistic lab environments for AI-assisted troubleshooting.",
+    "avatar": "",
+    "linkedin": "https://www.linkedin.com/in/example-bruno/"
+  },
+  {
+    "name": "Lihle Example",
+    "role": "IoT & Edge Devices",
+    "tagline": "Connecting sensors, cameras, and edge nodes to the automation layer.",
+    "avatar": "",
+    "linkedin": "https://www.linkedin.com/in/example-lihle/"
+  },
+  {
+    "name": "Welcome Nkambule",
+    "role": "IoT & Edge Devices",
+    "tagline": "Connecting sensors, cameras, and edge nodes to the automation layer.",
+    "avatar": "",
+    "linkedin": "https://www.linkedin.com/in/example-lihle/"
+  }
+]
+
+
+
